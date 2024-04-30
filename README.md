@@ -25,7 +25,7 @@ instruments:
          /
   delay <
          \
-          +---- sqaure wave
+          +---- square wave
 
 ```
 
